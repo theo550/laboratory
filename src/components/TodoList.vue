@@ -153,7 +153,7 @@ li:hover .radio{
 .done{
   text-decoration: line-through ;
 
-  opacity: 60%;
+  color: rgba(0,0,0,.4);
 }
 
 .remove{
